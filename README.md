@@ -6,7 +6,7 @@ The project is based on a small web service which uses the following technologie
 * Spring MVC with Spring Boot
 * Database H2 (In-Memory)
 * Maven
-
+s
  * The architecture of the web service is built with the following components:
    * DataTransferObjects: Objects which are used for outside communication via the API
    * Controller: Implements the processing logic of the web service, parsing of parameters and validation of in- and outputs.
