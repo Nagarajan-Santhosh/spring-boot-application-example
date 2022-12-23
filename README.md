@@ -18,7 +18,7 @@ The project is based on a small web service which uses the following technologie
 You should be able to start the example application by executing com.myapp.MyappServer, which starts a webserver on port 8080 (http://localhost:8080) and serves SwaggerUI where can inspect and try existing endpoints.
 
 # Useful commands
-Useful curl commands to test. It can be tested with swagger also: http://localhost:8080/swagger-ui.html
+Useful curl commandss to test. It can be tested with swagger also: http://localhost:8080/swagger-ui.html
 
 ```
 curl -u user:password "http://localhost:8080/v1/cars"
